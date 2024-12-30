@@ -12,6 +12,7 @@ body {
     height: 100vh;
     margin: 0;
     background: #fff19f;
+    font-family: "Balthazar", serif;
 }
 
 .sticky-header {
